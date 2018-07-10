@@ -18,13 +18,16 @@ class PlaceInput extends Component {
     }
 
     this.props.onPlaceAdded(this.state.placeName);
+    this.setState({
+        placeName: ''
+      });
   };
 
   render() {
     return (
       <View style={styles.inputContainer}>
         <TextInput
-          placeholder="An awesome place"
+          placeholder="Line Item"
           value={this.state.placeName}
           onChangeText={this.placeNameChangedHandler}
           style={styles.placeInput}
