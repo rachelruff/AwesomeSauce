@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/rruff/developer/AwesomeSauce/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/rruff/developer/AwesomeSauce/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/rruff/developer/AwesomeSauce/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h

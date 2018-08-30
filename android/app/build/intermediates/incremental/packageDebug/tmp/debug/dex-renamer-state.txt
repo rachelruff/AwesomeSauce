@@ -1,4 +1,4 @@
-#Tue Jul 03 10:48:18 MDT 2018
-base.0=/Users/rruff/developer/AwesomeSauce/android/app/build/intermediates/transforms/dexMerger/debug/18
-renamed.0=classes.dex
+#Wed Aug 29 17:25:35 MDT 2018
+base.0=/Users/rruff/developer/AwesomeSauce/android/app/build/intermediates/transforms/dexMerger/debug/117
 path.0=classes.dex
+renamed.0=classes.dex
